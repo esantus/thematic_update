@@ -1,0 +1,156 @@
+Loading the matrix...
+WARNING: not enough fillers for tattletale-n-obj. Only 1 found.
+WARNING: not enough fillers for tattletale-n-obj. Only 1 found.
+WARNING: not enough fillers for contortionist-n-obj. Only 10 found.
+WARNING: not enough fillers for contortionist-n-obj. Only 10 found.
+WARNING: not enough fillers for druglord-n-obj. Only 6 found.
+WARNING: not enough fillers for druglord-n-obj. Only 6 found.
+WARNING: not enough fillers for pothead-n-obj. Only 5 found.
+WARNING: not enough fillers for pothead-n-obj. Only 5 found.
+WARNING: not enough fillers for moviemaker-n-obj. Only 14 found.
+WARNING: not enough fillers for moviemaker-n-obj. Only 14 found.
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: ice-cream-n-obj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for ice-cream-n-obj-1 was not created
+WARNING: not enough fillers for sandals-n-obj-1. Only 1 found.
+WARNING: not enough fillers for sandals-n-obj-1. Only 1 found.
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: cuisinier-n-obj does not exist in the filler database.
+Returning proto = False
+Prototype for cuisinier-n-obj was not created
+WARNING: cuisinier-n-obj does not exist in the filler database.
+Returning proto = False
+Prototype for cuisinier-n-obj was not created
+WARNING: cuisinier-n-obj does not exist in the filler database.
+Returning proto = False
+Prototype for cuisinier-n-obj was not created
+WARNING: not enough fillers for alpinist-n-obj. Only 17 found.
+WARNING: not enough fillers for alpinist-n-obj. Only 17 found.
+WARNING: not enough fillers for alpinist-n-obj. Only 17 found.
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: leftovers-n-with does not exist in the filler database.
+Returning proto = False
+Prototype for leftovers-n-with was not created
+WARNING: leftovers-n-with does not exist in the filler database.
+Returning proto = False
+Prototype for leftovers-n-with was not created
+WARNING: not enough fillers for scrape-n-with. Only 15 found.
+WARNING: not enough fillers for scrape-n-with. Only 15 found.
+WARNING: not enough fillers for potion-n-with. Only 15 found.
+WARNING: not enough fillers for potion-n-with. Only 15 found.
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: hot-dog-n-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for hot-dog-n-sbj-1 was not created
+WARNING: hot-dog-n-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for hot-dog-n-sbj-1 was not created
+WARNING: hot-dog-n-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for hot-dog-n-sbj-1 was not created
+WARNING: hot-dog-n-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for hot-dog-n-sbj-1 was not created
+WARNING: hot-dog-n-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for hot-dog-n-sbj-1 was not created
+WARNING: deceased-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for deceased-sbj-1 was not created
+WARNING: deceased-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for deceased-sbj-1 was not created
+WARNING: deceased-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for deceased-sbj-1 was not created
+WARNING: deceased-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for deceased-sbj-1 was not created
+WARNING: deceased-sbj-1 does not exist in the filler database.
+Returning proto = False
+Prototype for deceased-sbj-1 was not created
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: go-kart-n-obj does not exist in the filler database.
+Returning proto = False
+Prototype for go-kart-n-obj was not created
+WARNING: go-kart-n-obj does not exist in the filler database.
+Returning proto = False
+Prototype for go-kart-n-obj was not created
+WARNING: go-kart-n-obj does not exist in the filler database.
+Returning proto = False
+Prototype for go-kart-n-obj was not created
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
+WARNING: Either proto1 or proto2 were not in proto_mat!
