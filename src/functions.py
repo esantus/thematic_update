@@ -99,6 +99,7 @@ def get_dataset(dataset_fname):
 
 def get_proto(target, relation, fillers, N, dsm):
     proto = []
+    start = True
 
     key = target+"-"+relation
 
@@ -126,7 +127,10 @@ def get_proto(target, relation, fillers, N, dsm):
             if temp != False:
                 if proto == []:
                     proto = temp
+                    start = False #This is to make sure that we know the first filler has been added
                 else:
+                    if start == True: #This means the vector was already initialized in a previous dataset
+                        return proto #and therefore there is no need to recalculate it... otherwise yes
                     proto = proto + temp
     else:
         print("WARNING: %s does not exist in the filler database." % key)
